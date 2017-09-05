@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "edu-only",
+    "default": "edu-only"
+  }
+}
